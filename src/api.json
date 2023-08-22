@@ -1,0 +1,214 @@
+{
+   "response_code": 0,
+   "results": [{
+      "category": "Science: Computers",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "The first computer bug was formed by faulty wires.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+   }, {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The programming language &#039;Swift&#039; was created to replace what other programming language?",
+      "correct_answer": "Objective-C",
+      "incorrect_answers": ["C#", "Ruby", "C++"]
+   }, {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which computer hardware device provides an interface for all other connected devices to communicate?",
+      "correct_answer": "Motherboard",
+      "incorrect_answers": ["Central Processing Unit", "Hard Disk Drive", "Random Access Memory"]
+   }, {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "On which computer hardware device is the BIOS chip located?",
+      "correct_answer": "Motherboard",
+      "incorrect_answers": ["Hard Disk Drive", "Central Processing Unit", "Graphics Processing Unit"]
+   }, {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?",
+      "correct_answer": "Final",
+      "incorrect_answers": ["Static", "Private", "Public"]
+   }, {
+      "category": "Science: Computers",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Pointers were not used in the original C programming language; they were added later on in C++.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+   }, {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?",
+      "correct_answer": "Taiwan",
+      "incorrect_answers": ["United States", "Germany", "China (People&#039;s Republic of)"]
+   }, {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What did the name of the Tor Anonymity Network orignially stand for?",
+      "correct_answer": "The Onion Router",
+      "incorrect_answers": ["The Only Router", "The Orange Router", "The Ominous Router"]
+   }, {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "On which day did the World Wide Web go online?",
+      "correct_answer": "December 20, 1990",
+      "incorrect_answers": ["December 17, 1996", "November 12, 1990", "November 24, 1995"]
+   }, {
+      "category": "Science: Computers",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "RAM stands for Random Access Memory.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+   }, {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "While Apple was formed in California, in which western state was Microsoft founded?",
+      "correct_answer": "New Mexico",
+      "incorrect_answers": ["Washington", "Colorado", "Arizona"]
+   }, {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Generally, which component of a computer draws the most power?",
+      "correct_answer": "Video Card",
+      "incorrect_answers": ["Hard Drive", "Processor", "Power Supply"]
+   }, {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which one of these is not an official development name for a Ubuntu release?",
+      "correct_answer": "Mystic Mansion",
+      "incorrect_answers": ["Trusty Tahr", "Utopic Unicorn", "Wily Werewolf"]
+   }, {
+      "category": "Science: Computers",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "AMD created the first consumer 64-bit processor.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+   }, {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?",
+      "correct_answer": "&lt;marquee&gt;&lt;\/marquee&gt;",
+      "incorrect_answers": ["&lt;scroll&gt;&lt;\/scroll&gt;", "&lt;move&gt;&lt;\/move&gt;", "&lt;slide&gt;&lt;\/slide&gt;"]
+   }, {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?",
+      "correct_answer": "Green",
+      "incorrect_answers": ["Red", "Blue", "Yellow"]
+   }, {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In programming, the ternary operator is mostly defined with what symbol(s)?",
+      "correct_answer": "?:",
+      "incorrect_answers": ["??", "if then", "?"]
+   }, {
+      "category": "Science: Computers",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "The IBM PC used an Intel 8008 microprocessor clocked at 4.77 MHz and 8 kilobytes of memory.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+   }, {
+      "category": "Science: Computers",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The Windows ME operating system was released in the year 2000.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+   }, {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In computing terms, typically what does CLI stand for?",
+      "correct_answer": "Command Line Interface",
+      "incorrect_answers": ["Common Language Input", "Control Line Interface", "Common Language Interface"]
+   }, {
+      "category": "Science: Computers",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "The first dual-core CPU was the Intel Pentium D.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+   }, {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the main CPU is the Sega Mega Drive \/ Sega Genesis?",
+      "correct_answer": "Motorola 68000",
+      "incorrect_answers": ["Zilog Z80", "Yamaha YM2612", "Intel 8088"]
+   }, {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Laserjet and inkjet printers are both examples of what type of printer?",
+      "correct_answer": "Non-impact printer",
+      "incorrect_answers": ["Impact printer", "Daisywheel printer", "Dot matrix printer"]
+   }, {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What does the term MIME stand for, in regards to computing?",
+      "correct_answer": "Multipurpose Internet Mail Extensions",
+      "incorrect_answers": ["Mail Internet Mail Exchange", "Multipurpose Interleave Mail Exchange", "Mail Interleave Method Exchange"]
+   }, {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What vulnerability ranked #1 on the OWASP Top 10 in 2013?",
+      "correct_answer": "Injection ",
+      "incorrect_answers": ["Broken Authentication", "Cross-Site Scripting", "Insecure Direct Object References"]
+   }, {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In programming, what do you call functions with the same name but different implementations?",
+      "correct_answer": "Overloading",
+      "incorrect_answers": ["Overriding", "Abstracting", "Inheriting"]
+   }, {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What major programming language does Unreal Engine 4 use?",
+      "correct_answer": "C++",
+      "incorrect_answers": ["Assembly", "C#", "ECMAScript"]
+   }, {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the number of keys on a standard Windows Keyboard?",
+      "correct_answer": "104",
+      "incorrect_answers": ["64", "94", "76"]
+   }, {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of the following computer components can be built using only NAND gates?",
+      "correct_answer": "ALU",
+      "incorrect_answers": ["CPU", "RAM", "Register"]
+   }, {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Who is the founder of Palantir?",
+      "correct_answer": "Peter Thiel",
+      "incorrect_answers": ["Mark Zuckerberg", "Marc Benioff", "Jack Dorsey"]
+   }]
+}
